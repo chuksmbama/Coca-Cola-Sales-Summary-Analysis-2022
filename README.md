@@ -135,6 +135,8 @@ Profitability improved over time. Profit margin and operating profit strengthene
 Growth was driven mainly by Coca-Cola and Diet Coke, Walmart, the West region, and a few key states.
 
 In conclusion, the year delivered solid sales and revenue performance, and we closed it in a stronger position, operating more efficiently and profitably than at the start.
+
+
 **🔹 Tools and Technologies**
 
 - Power BI
